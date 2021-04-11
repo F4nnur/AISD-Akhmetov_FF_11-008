@@ -1,4 +1,4 @@
-#Nicholas Grout
+
 .PHONY: clean
 CC=g++
 CFLAGS= -g -std=c++14

@@ -1,9 +1,4 @@
-/* 8/15/17 23tree. This data structure is similar to a BST in sorting and 
- * placement, but differs because it is always balanced. A BST only places nodes
- * according to how the new data relates to data already in the tree. But a 
- * 23tree places data in the same way, but splits nodes and pushes data up the 
- * tree to ensure it is always balanced.
- */
+
 #include <cstring>
 #include <cctype>
 #include <iostream>
